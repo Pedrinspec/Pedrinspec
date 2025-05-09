@@ -46,7 +46,7 @@ Minha paixão pelo desenvolvimento de software começou cedo e desde então tenh
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinspec&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
